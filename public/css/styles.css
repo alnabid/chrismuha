@@ -605,7 +605,7 @@ footer a.e_mail, a.e_mail {
 }
 
 .navbar-dark .navbar-toggler-icon {
-    background-image: url(https://chrismuha.com/public/img/menu.png) !important;
+    background-image: url(https://chrismuha.com/img/menu.png) !important;
     background-size: 30px !important;
 }
 
@@ -1683,33 +1683,7 @@ a.nav-link {
     padding: 6pt; 
 }
 
-.review-slider > p::after {
-    content: 'We are here to provide exceptional customer service. We will ensure that your computers and devices are performing at their peak and are secure when using the internet.';
-    font-size: 12pt;
-    font-weight: 500;
-    display: block;
-    padding: 12pt 0;
-    width: 80%;
-    margin: auto;
-    text-transform: none;
-}
 
-.google.review-slider > p::after {
-    font-size: 12pt;
-    font-weight: 500;
-    display: block;
-    padding: 12pt 0;
-    margin: auto;
-    font-size: 14px;
-    text-align: left;
-    border: #4285f4 solid 2px; 
-    margin-bottom: 12pt; 
-    border-radius: 6pt; 
-    padding: 6pt; 
-    line-height: 2; 
-    margin: 16px;
-    width: unset;
-}
 
 .google-review .order-number {
     min-height: 1rem;
